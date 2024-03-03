@@ -88,7 +88,7 @@ enum Letter {
     A = 65,
     B = 66,
 }
-
+```
 
 Here `Letter::n(65)` would return `Some(Letter::A)`.
 
