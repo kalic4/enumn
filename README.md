@@ -191,4 +191,4 @@ Here `Letter::n(65)` would return `Some(Letter::A)`.
 
 <sup>
 许可
-<sup> 根据Apache许可证2.0版本或MIT许可证中的一种许可协议许可。 </sup>
+<sup> 根据Apache许可证2.0版本或MIT许可证中的一种许可协议许可。 
