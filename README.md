@@ -101,6 +101,7 @@ Licensed under either of <a href="LICENSE-APACHE">Apache License, Version
 2.0</a> or <a href="LICENSE-MIT">MIT license</a> at your option.
 <sup>    
 
+======================
 将数字转换为枚举
 <img alt="github" src="https://img.shields.io/badge/github-dtolnay/enumn-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">
 <img alt="crates.io" src="https://img.shields.io/crates/v/enumn.svg?style=for-the-badge&color=fc8d62&logo=rust" height="20">
